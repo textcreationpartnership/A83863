@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The votes of the House of Commons upon His Majesties last message: brought by the commissioners from the King: passed on Saturday last Novemb. 11. 1648. Also the names of the seven persons to bee out of mercy, seven more to be banished the Kingdome. Duke Hambleton to pay an hundred thousand pounds, and the rest of the latter delinquents to pay a yeares value above their compositions.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83863</idno><idno type="EEBO-CITATION">99864984</idno>
+  <idno type="VID">162400</idno>
+  <idno type="EEBO-PROQUEST">2240911843</idno>
+  
+            <idno type="STC">Wing E2767</idno>
+            <idno type="STC">Thomason E470_29</idno>
+            <idno type="PROQUEST">99864984</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864984e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83863)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162400)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E470[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The votes of the House of Commons upon His Majesties last message: brought by the commissioners from the King: passed on Saturday last Novemb. 11. 1648. Also the names of the seven persons to bee out of mercy, seven more to be banished the Kingdome. Duke Hambleton to pay an hundred thousand pounds, and the rest of the latter delinquents to pay a yeares value above their compositions.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Smithurst, neer Pye-corner,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="corporate_name">Church of England --  Government --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Confiscations and contributions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162400:1"/>
+            <p>THE VOTES OF THE House of <hi>COMMONS</hi> UPON His MAJESTIES last MESSAGE: BROUGHT <hi>By the Commissioners from the King:</hi> Passed on Saturday last <hi>Novemb.</hi> 11. 1648.</p>
+            <p>ALSO The Names of the seven persons to bee out of mercy, Seven more to be Banish<g ref="char:EOLhyphen"/>ed the Kingdome.</p>
+            <p>Duke <hi>Hambleton</hi> to pay an hundred thousand pounds, and the rest of the latter Delinquents to pay a yeares value above their Compositions.</p>
+            <p>Printed for <hi>R. Smithurst,</hi> neer Pye-corner 1648,</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162400:2"/>
+            <pb n="1" facs="tcp:162400:2"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>English royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other against a background of stylized foliage and other motifs</figDesc>
+               </figure>
+            </head>
+            <head>THE VOTES of the House of <hi>Commons,</hi> UPON His Majesties last Message: <hi>Brought by the Commissioners from the KING.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>Die Sabbati Novemb. 11. 1648.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He House of Commons this day tooke in to consideration His Majesties paper of the 4th of <hi>Novemb.</hi> 1648. which was read as follow<g ref="char:EOLhyphen"/>eth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <signed>Charles R.</signed>
+                  </opener>
+                  <p>FOr a finall answer to you, as to your Paper of the first, of this instant, and the notes therein mentioned concerning
+<pb n="2" facs="tcp:162400:3"/> the Church, His Majesty saith, that His Concessions ex<g ref="char:EOLhyphen"/>pressed in that Paper, and mis-apprehended in these particu<g ref="char:EOLhyphen"/>lars following, <hi>viz.</hi> He never did, nor doth intend to make any more new bishops during the terme of three yeares, nor in the end of three yeares, that the power of Ordination should be practised in the old manner as formerly, for that heretofore the Bishops were at liberty to call what Presby<g ref="char:EOLhyphen"/>ters they would to assist in ordaining, but were not bound to their Councell or consent; but His Majesty doth now intend, and will consent, that Bishops shall not receive any into Holy Orders without the consent and limited number of Presbyters, to be chosen in such manner as shall be agreed on by His Majesty, and His two Houses for that purpose. Neither did His Majesty intend that after the end of three yeares no certain way should be settled concerning Ecclesia<g ref="char:EOLhyphen"/>sticall Government; for that His Majesty did purpose dur<g ref="char:EOLhyphen"/>ing the three yeares, to have a Consultation with the Assem<g ref="char:EOLhyphen"/>bly of Divines, twenty being added of His own nominati<g ref="char:EOLhyphen"/>on; which if His two Houses shall resolve to entertaine, it cannot well be doubted, but upon the debate, such a Go<g ref="char:EOLhyphen"/>vernment will be agreed upon by His Majesty and His two Houses, as shall be best for the peace of the Church, and most proper to prevent those distractions which His two Houses apprehend may ensue.</p>
+                  <p>And as to that part of the Proposition concerning the Book of Common-Prayer, for the satisfaction of his two Houses, His Majesty will not insist upon any provision for continu<g ref="char:EOLhyphen"/>ance of the fame in His Majesties Chappell for himselfe and His Houshould; neverthelesse His Majesty declares, that he intends to use some other set forme of Divine Service.</p>
+                  <p>And as to that part of the Proposition, that an Act or Acts be passed for a stricter course to prevent the saying and hear<g ref="char:EOLhyphen"/>ing of Masse in the Court, or any other part of the Kingdom, or the Kingdome of Ireland, his Majestie will consent there<g ref="char:EOLhyphen"/>unto.</p>
+                  <p>And as to all other particulars in your Paper mentioned, his Majesty having in his former Answers consented so far
+<pb n="3" facs="tcp:162400:3"/> as possibly he can, as he stands at present perswaded in his judgement; doth refer himself thereunto. And since his Ma<g ref="char:EOLhyphen"/>jestie by his Concessions hath brought all differences con<g ref="char:EOLhyphen"/>cerning the Church into so narrow a compasse, that the chief visible obstruction is that, wherein really in conscience he is not satisfied? He hopes his two Houses will not put further pressures of so render a nature upon him, when it is most like<g ref="char:EOLhyphen"/>ly the time and Debate will happily reconcile all these diffe<g ref="char:EOLhyphen"/>rences,</p>
+                  <closer>
+                     <dateline>Newport <date>Novemb. 4. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>This Message was debated in parts, And first the House considered of the first branch (<hi>viz.</hi>)
+<q>For a finall answer to your Paper of the first of this in<g ref="char:EOLhyphen"/>stant, and the notes therein mentioned concerning the Church, His Majesty saith, that his Concessions expressed in that Paper, and mis-apprehended in these particulars fol<g ref="char:EOLhyphen"/>lowing, <hi>viz.</hi> he neither did, nor doth intend to make any more new Bishops during the terme of three years, nor in the end of three yeares, that the power of Ordination should be practised in the old manner as formerly, for that hereto<g ref="char:EOLhyphen"/>fore the Bishops were at liberty to call what Presbyters they would to assist in ordaining, but were not bound to their Counsell or consent; but his Majesty doth not intend, and will consent, that Bishops shall not receive any into Holy Orders without the consent of a limited number of Presby<g ref="char:EOLhyphen"/>ters, to be chosen in such manner as shall be agreed on by his Majesty, and his two Houses for that purpose. Neither did his Majesty intend that after the end of three yeares no certaine way should be settled concerning Ecclesiasticall Government; for that His Majesty did propose during the three yeares, to have a Consultation with the Assembly of Divines, twenty being added of His owne nomination; which if His two Houses shall resolve to entertaine, it can<g ref="char:EOLhyphen"/>not well bee doubted, but upon the debate, such a Govern<g ref="char:EOLhyphen"/>ment will bee agreed upon by His Majesty and His two Houses, as shall be best for the peace of the Church, and most
+<pb n="4" facs="tcp:162400:4"/> proper to prevent those distractions which His two Houses apprehend may ensue.</q>
+            </p>
+            <p n="1">1 <hi>Resolved upon the Question by the Lords and Commons in Parliament Assembled,</hi> That this Answer from his Majesty is not satisfactory.</p>
+            <p>Then the House considered of the second branch in his Majesties Message, and liked well of that offer from his Majesty, (<hi>viz.</hi>) <q>That as to that part of the Proposition concerning the book of common prayer, for the satisfaction of his two Houses, his Majesty will not insist upon any provision for countenance of the same in his Majesties Chappell, for himself and his houshold.</q>
+            </p>
+            <p>But upon the Houses consideration of the close of that branch, which folllowes, <q>That neverthelesse his Majestie declares, That he intends to use some other set form of divine Service,</q> that was debated, and the House passed a Vote thereupon,</p>
+            <p n="2">2. <hi>Resolved upon the Question, by the Commons in Parliament assembled,</hi> That his Majesties declaration whereby he intends to use a set form of divine Service, is not satisfactory.</p>
+            <p>Then the House debated the third Branch, which is for abolishing of Masse as followeth, (Viz).<lb/>
+               <q>And as to that part of the Proposition, that an Act or Acts be passed for a stricter course, to prevent the saying, or hearing of Masse in the Court, or any other part of the Kingdome, or the Kingdome of Ireland, his Majesty will consent thereunto.</q>
+            </p>
+            <p n="3">
+               <pb n="5" facs="tcp:162400:4"/> 3. <hi>Resolved upon the Question, by the Commons in Par<g ref="char:EOLhyphen"/>liament Assembled,</hi> That this Answer from his Ma<g ref="char:EOLhyphen"/>jesty against Masse, is satisfactory. And this House doth approve thereof.</p>
+            <p>Then the House debated the conclusion of his Ma<g ref="char:EOLhyphen"/>jesties Message, Viz.<lb/>
+               <q>As to all other particulars in your Paper mentioned, his Majesty having in his former Answers consented so far as possibly he can, as he stands at present per<g ref="char:EOLhyphen"/>swaded in his judgement: doth refer himself thereun<g ref="char:EOLhyphen"/>to. And since his Majesty by his Concessions hath brought all differences concerning the Church into so narrow a compasse, that the chiefe visible obstruction is that, wherein really in conscience he is not satis<g ref="char:EOLhyphen"/>fied: He hopes his two Houses will not put further pressures of so tender a nature upon him, when it is most likely the time and Debate will happily recon<g ref="char:EOLhyphen"/>cile all these differences.</q>
+            </p>
+            <p>
+               <q>Newport <date>Novemb. 4. 1648.</date>
+               </q>
+            </p>
+            <p n="4">4 <hi>Resolved upon the Question by the Commons in Parlia<g ref="char:EOLhyphen"/>ment Assembled,</hi> That this part of his Majesties Mes<g ref="char:EOLhyphen"/>sage is unsatisfactory.</p>
+            <p n="5">5 <hi>Resolved upon the Question by the Commons in Par<g ref="char:EOLhyphen"/>liament Assembled,</hi> That these seven persons be ex<g ref="char:EOLhyphen"/>empted out of mercy, Viz.
+<list>
+                  <item>The Marquis of <hi>Newcastle,</hi>
+                  </item>
+                  <item>The Lord <hi>George Digby</hi>
+                  </item>
+                  <item>Sir <hi>Marmaduke Langdale,</hi>
+                  </item>
+                  <item>Sir <hi>Francis D<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>dington,</hi>
+                  </item>
+                  <item>Sir <hi>John Winter,</hi>
+                  </item>
+                  <item>Sir <hi>Rich. Greenvil,</hi> and</item>
+                  <item>Judge <hi>Jenkins.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="6">
+               <pb n="6" facs="tcp:162400:5"/>6 <hi>Resolved upon the Question, &amp;c.</hi> That these se<g ref="char:EOLhyphen"/>ven persons be Banished the Kingdome, Viz.
+<list>
+                  <item>The Earle of <hi>Holland,</hi>
+                  </item>
+                  <item>The Lord <hi>Goring,</hi>
+                  </item>
+                  <item>The Lord <hi>Capel,</hi>
+                  </item>
+                  <item>The Lord <hi>Loughborough,</hi>
+                  </item>
+                  <item>Major Generall <hi>Laughorn</hi>
+                  </item>
+                  <item>Sir <hi>Henry Lingen,</hi>
+                  </item>
+                  <item>Sir <hi>John Owen,</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="7">7 <hi>Resolved, &amp;c. That Duke <hi>Hamilton</hi> be fined for his Delinquency an hundred thousand pounds.</hi>
+            </p>
+            <p n="8">8 Resolved, &amp;c. <hi>All Delinquents that ingaged a<g ref="char:EOLhyphen"/>gainst the Parliament since <hi>January</hi> last to pay a yeares value of their Estate, above their Compositions.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
